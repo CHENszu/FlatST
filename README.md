@@ -4,7 +4,7 @@ Here we propose FlatST, a graph attention autoencoder framework with dual smooth
 # Overview
 From the Graph Autoencoder (GAE) to the Graph Attention Encoder (GAT), on the basis of these two frameworks, many outstanding works have emerged in the research of spatial transcriptomics. Compared with other methods for establishing complex models to optimize low-dimensional latent matrices, we propose a very simple optimization method: FlatST. FlatST updates the low-dimensional latent matrix based on GAT through a dual smoothing mechanism. Specifically, we first solve the smoothing coefficients based on encoding and decoding, and then construct the smoothing matrix in combination with the number of spots neighbors. We have compared FlatST with 8 methods on 28 datasets to demonstrate its superiority in clustering and denoising.
 # Software dependencies
-FlatST is developed based on the pytorch framework.
+FlatST is developed based on pytorch.
 # Installation
 cd xx/FlatST-main  
 python setup.py build  
