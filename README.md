@@ -6,9 +6,9 @@ From the Graph Autoencoder (GAE) to the Graph Attention Encoder (GAT), on the ba
 # Software dependencies
 pytorch
 # Installation
-cd xx/FlatST-main
-python setup.py build
+cd xx/FlatST-main  
+python setup.py build  
 python setup.py install
 # Citation
-The paper is being submitted...
+The paper is being submitted...  
 FlatST: A Smoothed Attention Graph Autoencoder for Multi-Task Spatial Transcriptomic Analysis—Denoising, Batch Effect Mitigation, Domain Identification, and 3D Extraction
