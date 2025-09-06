@@ -11,7 +11,7 @@ python setup.py build
 python setup.py install
 # Tutorial
 If you are interested in FlatST, you can click [here](https://flatst-tutorial.readthedocs.io/en/latest/) to go to the tutorial of FlatST.In our experiment, we found that the hyperparameters of FlatST play a decisive role in the experimental results. You can refer to the parameters we provide to run it.  
-All data used in this article we have converted to .h5ad format and it has been uploaded to [here](https://drive.google.com/drive/folders/1WmBwN9hPjBlyJsMhX62u0gO7vzeOTH1q?dmr=1&ec=wgc-drive-globalnav-goto).You can use them for free.
+All data used in this article we have converted to .h5ad format and it has been uploaded to [Google](https://drive.google.com/drive/folders/1WmBwN9hPjBlyJsMhX62u0gO7vzeOTH1q?dmr=1&ec=wgc-drive-globalnav-goto).You can use them for free.
 # Citation
 The paper is being submitted...  
 FlatST: A Smoothed Attention Graph Autoencoder for Multi-Task Spatial Transcriptomic Analysis—Denoising, Batch Effect Mitigation, Domain Identification, and 3D Extraction
