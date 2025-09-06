@@ -14,3 +14,5 @@ If you are interested in FlatST, you can click [here](https://flatst-tutorial.re
 # Citation
 The paper is being submitted...  
 FlatST: A Smoothed Attention Graph Autoencoder for Multi-Task Spatial Transcriptomic Analysis—Denoising, Batch Effect Mitigation, Domain Identification, and 3D Extraction
+# Special Acknowledgements
+Here, we would like to express our special gratitude to the author of STAGATE for his contributions. If you are interested, please refer to [STAGATE](https://www.nature.com/articles/s41467-022-29439-6#citeas)
