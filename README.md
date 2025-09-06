@@ -9,6 +9,8 @@ FlatST is developed based on pytorch.
 cd xx/FlatST-main  
 python setup.py build  
 python setup.py install
+# Tutorial
+If you are interested in FlatST, you can click [here](https://flatst-tutorial.readthedocs.io/en/latest/) to go to the tutorial of FlatST.
 # Citation
 The paper is being submitted...  
 FlatST: A Smoothed Attention Graph Autoencoder for Multi-Task Spatial Transcriptomic Analysis—Denoising, Batch Effect Mitigation, Domain Identification, and 3D Extraction
