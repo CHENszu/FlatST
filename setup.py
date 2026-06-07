@@ -1,7 +1,7 @@
 from setuptools import Command, find_packages, setup
 
 __lib_name__ = "FlatST"
-__lib_version__ = "1.0.1"
+__lib_version__ = "1.0.0"
 __description__ = "FlatST: An efficient and stable domain detection framework"
 __url__ = "https://github.com/CHENszu?tab=repositories"
 __author__ = "Xudong Chen"
